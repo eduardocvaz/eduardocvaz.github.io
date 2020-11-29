@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['veterinario_39',['Veterinario',['../classVeterinario.html',1,'']]]
+  ['tratador_49',['Tratador',['../classTratador.html',1,'']]]
 ];
