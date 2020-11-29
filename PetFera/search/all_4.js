@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['nativo_13',['Nativo',['../classNativo.html',1,'']]]
+  ['mamifero_19',['Mamifero',['../classMamifero.html',1,'']]],
+  ['mamiferoexotico_20',['MamiferoExotico',['../classMamiferoExotico.html',1,'']]],
+  ['mamiferonativo_21',['MamiferoNativo',['../classMamiferoNativo.html',1,'']]]
 ];

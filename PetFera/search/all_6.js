@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['reptil_16',['Reptil',['../classReptil.html',1,'']]],
-  ['reptilexotico_17',['ReptilExotico',['../classReptilExotico.html',1,'']]],
-  ['reptilnativo_18',['ReptilNativo',['../classReptilNativo.html',1,'']]]
+  ['operator_3c_3c_23',['operator&lt;&lt;',['../classAnimal.html#a1aed7c2a1b547eedc3da9eaf85f1f2a2',1,'Animal']]]
 ];
