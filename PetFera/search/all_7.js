@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['operator_3c_3c_29',['operator&lt;&lt;',['../classAnimal.html#a1aed7c2a1b547eedc3da9eaf85f1f2a2',1,'Animal']]]
+  ['nativo_50',['Nativo',['../classNativo.html',1,'Nativo'],['../classNativo.html#a10f7a5068827dc911657926be6d34dee',1,'Nativo::Nativo()']]]
 ];

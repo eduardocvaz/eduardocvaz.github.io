@@ -1,17 +1,10 @@
 var searchData=
 [
-  ['setcorpelagem_35',['setCorPelagem',['../classMamifero.html#a3aadcf84658a45008bd8fcc3ad21ba01',1,'Mamifero']]],
-  ['setidade_36',['setIdade',['../classAnimal.html#af4ee89706da7d481dc1cf7045abd4b48',1,'Animal']]],
-  ['setnome_37',['setNome',['../classAnimal.html#ac76a85ef6166bb04f0a10a05ee38f692',1,'Animal']]],
-  ['setpeso_38',['setPeso',['../classAnimal.html#a3f389b06015c99fca54e4e60d48edfd6',1,'Animal']]],
-  ['setsexo_39',['setSexo',['../classAnimal.html#aab32d5ad6689a4e19cfd43a303c939af',1,'Animal']]],
-  ['settamanho_40',['setTamanho',['../classAnimal.html#a53daf7711c6b6430c723647b2cec7c36',1,'Animal']]],
-  ['settamanhobico_41',['setTamanhoBico',['../classAve.html#aa6bd97a510edae1af14c1a7110503636',1,'Ave']]],
-  ['settamanhoenvergadura_42',['setTamanhoEnvergadura',['../classAve.html#ac9c0eee1339a7b90d0bbab365082bb4b',1,'Ave']]],
-  ['settipo_43',['setTipo',['../classAnimal.html#a6316882e68212fcc7a6baa5098e7e8ab',1,'Animal']]],
-  ['settipopele_44',['setTipoPele',['../classAnfibio.html#a555c68f13d07f5b6bf5a8d14a7dc6d7e',1,'Anfibio']]],
-  ['settipoveneno_45',['setTipoVeneno',['../classReptil.html#aef279d9a2ead02d8ccfe3aa6ea09446a',1,'Reptil']]],
-  ['settratador_46',['setTratador',['../classAnimal.html#aec8cd2eec7a0c833074e303f389c8f9f',1,'Animal']]],
-  ['setvalor_47',['setValor',['../classAnimal.html#a3f83f0596093a61b5bb223c8afa61fee',1,'Animal']]],
-  ['setveterinario_48',['setVeterinario',['../classAnimal.html#ace9b58ea47057261292ce42a4edd2870',1,'Animal']]]
+  ['removeanimal_56',['removeAnimal',['../classPetFera.html#ab9616f5095bbdfeba9215498c4023933',1,'PetFera']]],
+  ['removeprofissional_57',['removeProfissional',['../classPetFera.html#ab5bf429f09cb38c0193f5c340bd9a521',1,'PetFera']]],
+  ['removeranimal_58',['removerAnimal',['../classPetFera.html#a375daf65998e3b54f94529466ef97809',1,'PetFera']]],
+  ['removerprofissional_59',['removerProfissional',['../classPetFera.html#ae8e1ca7dbc09f88615ef34b4e4d8d9d5',1,'PetFera']]],
+  ['reptil_60',['Reptil',['../classReptil.html',1,'Reptil'],['../classReptil.html#a616647435320650b8a4a8b7cc9039458',1,'Reptil::Reptil()']]],
+  ['reptilexotico_61',['ReptilExotico',['../classReptilExotico.html',1,'ReptilExotico'],['../classReptilExotico.html#a480e3d61127ac865dae64adcb69469b1',1,'ReptilExotico::ReptilExotico()']]],
+  ['reptilnativo_62',['ReptilNativo',['../classReptilNativo.html',1,'ReptilNativo'],['../classReptilNativo.html#adb2c36de32c2aa463502bca61512e20c',1,'ReptilNativo::ReptilNativo()']]]
 ];

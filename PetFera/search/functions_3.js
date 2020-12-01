@@ -1,4 +1,24 @@
 var searchData=
 [
-  ['imprimedados_106',['imprimeDados',['../classAnfibio.html#abc00c716f99e2cfe4cb2a5d32cf82307',1,'Anfibio::imprimeDados()'],['../classAnfibioExotico.html#a3d87f9a07566579019e7776763d66f27',1,'AnfibioExotico::imprimeDados()'],['../classAnfibioNativo.html#a932b7e408188abeabf9cbef8dc194bfb',1,'AnfibioNativo::imprimeDados()'],['../classAve.html#ad9db8d0f8dbdf58b65ea482d936c4e03',1,'Ave::imprimeDados()'],['../classAveExotico.html#ad462a7cff1b152761ee00eb0fd0b3ede',1,'AveExotico::imprimeDados()'],['../classAveNativo.html#a959a5115639e80ea61b70b1c69df9db0',1,'AveNativo::imprimeDados()'],['../classMamifero.html#a4db718403960a11b484453d1c38d3c13',1,'Mamifero::imprimeDados()'],['../classMamiferoExotico.html#a24489f8cbc52c022d28bd6d9105beef0',1,'MamiferoExotico::imprimeDados()'],['../classMamiferoNativo.html#a47a775f9deef48c05b0cd8e28ab2d0e5',1,'MamiferoNativo::imprimeDados()'],['../classReptil.html#aa39c3646bfbcc9013ad5ab45d4a56a12',1,'Reptil::imprimeDados()'],['../classReptilExotico.html#a5a3c7df84aff27738f33170d9779eb88',1,'ReptilExotico::imprimeDados()'],['../classReptilNativo.html#a4b82d306e98bbe63243d2a5750dfaf5a',1,'ReptilNativo::imprimeDados()']]]
+  ['getanimais_140',['getAnimais',['../classPetFera.html#aa8006d436b431ca9c0745fd85280f6a2',1,'PetFera']]],
+  ['getcorpelagem_141',['getCorPelagem',['../classMamifero.html#a68f493cedd729532ea0ea5624d81416e',1,'Mamifero']]],
+  ['getcrmv_142',['getCRMV',['../classVeterinario.html#a8ac8fd3dbec97feac3a870aa916d61ea',1,'Veterinario']]],
+  ['getestado_143',['getEstado',['../classNativo.html#a91e40d96706a25146f1d385017c7da96',1,'Nativo']]],
+  ['getidade_144',['getIdade',['../classAnimal.html#a5b00023583b569b311eb782db9280a73',1,'Animal::getIdade()'],['../classProfissional.html#ab4b7091f200fc5f515ce26299a7dc23d',1,'Profissional::getIdade()']]],
+  ['getnivel_145',['getNivel',['../classTratador.html#a57caf7715dfc19fb4fbfead52270a3cb',1,'Tratador']]],
+  ['getnome_146',['getNome',['../classAnimal.html#a16dab693b54ccdb94ead24d703f6d5a6',1,'Animal::getNome()'],['../classProfissional.html#ae54304db44a7f59313bb49ba7bd0a74c',1,'Profissional::getNome()']]],
+  ['getpais_5forigem_147',['getPais_origem',['../classExotico.html#a0312a1046e82c53533e2ea2d91c29aa2',1,'Exotico']]],
+  ['getpeso_148',['getPeso',['../classAnimal.html#a7bc699bcbc38859ed831fa33e17f3617',1,'Animal']]],
+  ['getprofissionais_149',['getProfissionais',['../classPetFera.html#aff0dacec48aca2cac709a7084be7d899',1,'PetFera']]],
+  ['getsexo_150',['getSexo',['../classAnimal.html#a27599049dba7568b39db4ee2fe7fe104',1,'Animal']]],
+  ['gettamanho_151',['getTamanho',['../classAnimal.html#a2911321c229a6819f93381fb634aebc6',1,'Animal']]],
+  ['gettamanhobico_152',['getTamanhoBico',['../classAve.html#ac45d162eb2a8d6a6fc9a837f5e6293ed',1,'Ave']]],
+  ['gettamanhoenvergadura_153',['getTamanhoEnvergadura',['../classAve.html#a5a93e397dc5a5b4e69072d63d2f1f1b4',1,'Ave']]],
+  ['gettelefone_154',['getTelefone',['../classProfissional.html#a15ce12650305c0e1bf8ea5eb83dcc8f2',1,'Profissional']]],
+  ['gettipo_155',['getTipo',['../classAnimal.html#a63f620e0a279012a608b10f695b61096',1,'Animal::getTipo()'],['../classProfissional.html#a60125f6463b53c0c9af5acb3629d219f',1,'Profissional::getTipo()']]],
+  ['gettipopele_156',['getTipoPele',['../classAnfibio.html#ae925bd8e5b9ef25d03a3fa5cb2dbb9a2',1,'Anfibio']]],
+  ['gettipoveneno_157',['getTipoVeneno',['../classReptil.html#a1bd340495e2a6e6d9a6100484022311a',1,'Reptil']]],
+  ['gettratador_158',['getTratador',['../classAnimal.html#a3e79335eac6fa21cb49220a9f22a49d0',1,'Animal']]],
+  ['getvalor_159',['getValor',['../classAnimal.html#a11b9979c59a5c90ec8838c0ef7e49514',1,'Animal']]],
+  ['getveterinario_160',['getVeterinario',['../classAnimal.html#a6cf8db8b318c0c867ebeea9b663f9202',1,'Animal']]]
 ];
