@@ -106,7 +106,20 @@ body {
   }
 section{
   position: relative;
-  top: 40px;
-  left: 200px;
+  top: -190px;
+  left: 180px;
 
+}
+div {
+  position: relative;
+  width: 624px;
+  height: 300px;
+  overflow: hidden;
+}
+iframe {
+  position: relative;            
+  top: -200px;
+  left: -5px;
+  width: 1224px;
+  height: 718px;
 }
