@@ -104,12 +104,14 @@ body {
 #menu li {
   list-style: none;
   }
-section{
-  position: relative;
-  top: -190px;
-  left: 180px;
-
-}
+  section{
+    position: relative;
+    top: -300px;
+    left: 150px;
+    width: 850px;
+    padding: 50px;
+    margin: 10px;
+  }
 div {
   position: relative;
   width: 624px;
@@ -118,7 +120,7 @@ div {
 }
 iframe {
   position: relative;            
-  top: -200px;
+  top: -320px;
   left: -5px;
   width: 1224px;
   height: 718px;
