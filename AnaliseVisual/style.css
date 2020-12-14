@@ -123,5 +123,6 @@ iframe {
   top: -320px;
   left: -5px;
   width: 1224px;
-  height: 718px;
+  height: 818px;
+  border:none;
 }
