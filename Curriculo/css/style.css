@@ -109,6 +109,13 @@ ul {
   }
 
 
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
   /* The bar container */
 .bar-container {
     width: 100%;
