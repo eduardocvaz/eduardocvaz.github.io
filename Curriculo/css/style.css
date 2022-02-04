@@ -1,0 +1,131 @@
+.mainPage {
+    display: flex;
+    border: #f1f1f1 solid 1px;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+.periodo {
+    padding: 10px;
+    flex: 1;
+    border: #bb5dab solid 1px;
+}
+.description {
+    padding: 10px;
+    flex: 8;
+    margin-left: 10px;
+}
+
+.foto {
+    display: block;
+    width:50%;
+    height:50%;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.name h1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.personalInfo h1{
+    font-size: 25px;
+}
+.skills h1{
+    font-size: 25px;
+}
+.skills div {
+    color: white;
+}
+.skills {
+    margin: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.education h1{
+    padding: 10px;
+    color: #bb5dab;
+    border: #bb5dab solid 1px;
+}
+.experience h1{
+    padding: 10px;
+    color: #bb5dab;
+    border: #bb5dab solid 1px;
+}
+aside {
+    background-color: rgb(183, 24, 214);
+    margin-right: 10px;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+aside p, aside h1, aside strong{
+    color: white;
+    margin: 10px;
+}
+            
+ul {
+    display: block;
+    margin-left: -10px;
+  }
+  
+  ul li {
+    display: block;
+    position: relative;
+  }
+  
+  ul li:not(:last-child) {
+    margin-bottom: 16px;
+  }
+  
+  ul li:before {
+    content: "";
+    position: absolute;
+    top: 1.2em;
+    left: -30px;
+    margin-top: -.9em;
+    background: #f69ec4;
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+  }
+
+/* Three column layout */
+.side {
+    float: left;
+    width: 30%;
+    margin-top: 10px;
+  }
+  
+  .middle {
+    float: right;
+    width: 60%;
+    margin-top: 10px;
+  }
+
+
+  /* The bar container */
+.bar-container {
+    width: 90%;
+    background-color: #f1f1f1;
+    text-align: center;
+    color: white;
+  }
+
+
+/* Individual bars */
+.bar-1 {width: 40%; height: 18px; background-color: #9adbdb;}
+.bar-2 {width: 35%; height: 18px; background-color: #9adbdb;}
+.bar-3 {width: 25%; height: 18px; background-color: #9adbdb;}
+.bar-4 {width: 5%; height: 18px; background-color: #9adbdb;}
+.bar-5 {width: 22%; height: 18px; background-color: #9adbdb;}
+.bar-6 {width: 23%; height: 18px; background-color: #9adbdb;}
+.bar-7 {width: 54%; height: 18px; background-color: #9adbdb;}
+.bar-8 {width: 18%; height: 18px; background-color: #9adbdb;}
+
+
