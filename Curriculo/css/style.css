@@ -104,16 +104,15 @@ ul {
   
   .middle {
     float: right;
-    width: 50%;
+    width: 70%;
     margin-top: 10px;
   }
 
 
   /* The bar container */
 .bar-container {
-    width: 90%;
+    width: 100%;
     background-color: #f1f1f1;
-    text-align: center;
     color: white;
   }
 
